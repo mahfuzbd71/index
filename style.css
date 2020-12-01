@@ -1,0 +1,113 @@
+.square{	
+    width:200px;
+    height:200px;
+    background:red;
+}
+.rectangle{
+	background:green;
+	height:100px;
+	width:200px;
+	
+}
+
+.oval
+{
+    background: gold;
+    width: 200px;
+    height: 100px;
+    border-radius: 100px/50px;
+}
+
+.triangle
+{
+    
+    width: 0;
+    height: 0;
+    border-bottom: 200px solid indigo;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+}
+
+.triangledown
+{
+    width: 0;
+    height: 0;
+    border-top: 200px solid olive;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+
+}
+
+.triangleright
+{
+    width: 0;
+    height: 0;
+    border-right: 200px solid orchid;
+    border-top: 100px solid transparent;
+    border-bottom: 100px solid transparent;
+}
+
+.triangleleft
+{
+    width: 0;
+    height: 0;
+    border-left: 200px solid greenyellow;
+    border-top: 100px solid transparent;
+    border-bottom: 100px solid transparent;
+}
+
+.cirle
+{
+    background-color: grey;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.trapezium
+{
+    
+   
+   height: 0;
+    border-bottom: 200px solid indigo;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+}
+
+
+  .RightTringle
+ {
+   width: 0;  
+   height: 0;
+   border-bottom: 200px solid rosybrown;
+   border-right: 100px solid transparent;
+ }
+
+ .LeftTringle
+ {
+    width: 0;  
+    height: 0;
+    border-bottom: 200px solid black;
+    border-left: 100px solid transparent;
+  }
+
+  .sobuj
+  {
+      background: green;
+      height: 250px;
+      width: 500px;
+      position: relative;
+  }
+
+  .lal{
+     height: 150px;
+      width: 150px;
+      background: red;
+      border-radius: 50%; 
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      margin: auto;
+  }
